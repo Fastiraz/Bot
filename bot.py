@@ -5,7 +5,7 @@ from discord.ext.commands import Bot
 import asyncio
 import datetime
 
-Token = 'OTA0MzY2NzczMDExMzQ5NTM2.YX6fMQ.Qp-WwUFd7ZMWFae_V8bKkm8RZtw'
+Token = '' #put your bot's token between apostrophes
 bot = commands.Bot(command_prefix="./")
 
 @bot.event
