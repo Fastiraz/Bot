@@ -2,7 +2,7 @@ import discord
 from discord.ext import commands,tasks
 from discord.ext.commands import Bot
 
-Token = 'OTI5ODc1NzcyNjM2ODA3MjM5.YdtsTA.kyng8PUr8jW_KhCjapzWWdeHAfE'
+Token = '' #PUT YOUR BOT'S TOKEN HERE
 bot = commands.Bot(command_prefix=".", description='Music is life :notes::musical_note:')
 
 bot.lava_nodes = [
