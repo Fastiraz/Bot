@@ -1,2 +1,2 @@
 # Bot
-Bots dev by Fastiraz.
+Discord bot dev by Fastiraz.
